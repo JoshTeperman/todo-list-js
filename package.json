@@ -1,0 +1,22 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshTeperman/todo-list-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshTeperman/todo-list-js/issues"
+  },
+  "homepage": "https://github.com/JoshTeperman/todo-list-js#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
